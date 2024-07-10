@@ -7,6 +7,7 @@ Answer the following questions based on your understanding of software engineeri
 
 Questions:
 Define Software Engineering:
+The application of engineering principles to design, develop, test, and maintain software systems is what software engineering entails. It involves a systematic, disciplined, and quantifiable approach to creating and managing software. This ensures that the resulting products are reliable, efficient, and fulfill user requirements.
 
 What is software engineering, and how does it differ from traditional programming?
 Software Development Life Cycle (SDLC):
